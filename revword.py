@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 24 13:07:54 2021
-
-@author: levir
-"""
 
 # -*- coding: utf-8 -*-
 """
